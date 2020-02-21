@@ -20,7 +20,7 @@ export default {
   name: 'vPopup',
   data() {
     return {
-      showPopup: true,
+      showPopup: false,
       closeImage: require('../../assets/images/guanbi.png')
     }
   },
